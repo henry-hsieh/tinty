@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.11.1] - 2024-04-27
+
+- Update musl build
+
 ## [0.11.0] - 2024-03-10
 
 ### Added
